@@ -1,0 +1,6 @@
+{
+  "name": "InkBleed Studio",
+  "description": "Estúdio de tipografia profissional com efeito de ink bleed orgânico, texturas de papel envelhecido, animação de fluidez e exportação em alta resolução.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
